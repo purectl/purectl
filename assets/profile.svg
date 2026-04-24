@@ -52,7 +52,7 @@
 
   <g transform="translate(60, 80)">
     <text y="0" class="subtitle">FULL-STACK DEVELOPER</text>
-    <text y="65" class="title glow-text" filter="url(#textGlow)">PURE</text>
+    <text y="65" class="title glow-text" filter="url(#textGlow)">NATE</text>
     
     <line x1="0" y1="85" x2="200" y2="85" class="divider">
       <animate attributeName="x2" values="0;200" dur="1.5s" fill="freeze"/>
