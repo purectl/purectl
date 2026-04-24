@@ -76,7 +76,7 @@
     <text class="badge-text" x="272.5" y="15" text-anchor="middle">Go</text>
 
     <rect class="badge" x="300" y="0" width="45" height="22" rx="11"/>
-    <text class="badge-text" x="322.5" y="15" text-anchor="middle">Vite</text>
+    <text class="badge-text" x="322.5" y="15" text-anchor="middle">c++</text>
 
     <rect class="badge" x="355" y="0" width="60" height="22" rx="11"/>
     <text class="badge-text" x="385" y="15" text-anchor="middle">Node.js</text>
