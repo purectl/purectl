@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="assets/profile2.svg" alt="">
+  <img src="assets/newprofile.svg" alt="">
 </p>
